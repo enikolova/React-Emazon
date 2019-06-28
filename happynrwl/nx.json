@@ -1,0 +1,24 @@
+{
+  "npmScope": "happynrwl",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "happynrwl": {
+      "tags": []
+    },
+    "happynrwl-e2e": {
+      "tags": []
+    },
+    "emazon": {
+      "tags": []
+    },
+    "emazon-e2e": {
+      "tags": []
+    }
+  }
+}
